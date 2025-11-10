@@ -1,1 +1,2 @@
-# BIMmanager group xy
+# BIMmanager group TEST
+
